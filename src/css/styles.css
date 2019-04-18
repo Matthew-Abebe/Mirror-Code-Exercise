@@ -1,0 +1,13 @@
+    #partOne {
+    display: flex;
+    width: 25%;
+    border: 2px solid black;
+    justify-content: space-between;
+}
+
+#partTwo {
+    display: flex;
+    width: 25%;
+    border: 2px solid gold; 
+    justify-content: space-between;
+}
